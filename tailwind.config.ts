@@ -57,6 +57,11 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "gta-purple": "hsl(var(--gta-purple))",
+        "gta-purple-light": "hsl(var(--gta-purple-light))",
+        "gta-purple-dark": "hsl(var(--gta-purple-dark))",
+        "gta-bg": "hsl(var(--gta-bg))",
+        "gta-dark": "hsl(var(--gta-dark))",
       },
       borderRadius: {
         lg: "var(--radius)",
